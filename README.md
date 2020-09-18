@@ -12,7 +12,7 @@
 
 -----
 
-**Dependencies:**
+**Dependencies:**<br/>
 vtk<br/>
 pyqt5<br/>
 OpenSimplex
