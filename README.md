@@ -2,8 +2,8 @@
 
 ------
 
-**Programmed By:** Joseph Bourque
-**Completed On:** ----/--/--
+**Programmed By:** Joseph Bourque<br/>
+**Completed On:** ----/--/--<br/>
 **Last Updated:** ----/--/--
 
 -----
@@ -13,8 +13,8 @@
 -----
 
 **Dependencies:**
-vtk
-pyqt5
+vtk<br/>
+pyqt5<br/>
 OpenSimplex
 
 -----
